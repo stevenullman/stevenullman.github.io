@@ -20,7 +20,7 @@ author: Some Person
 ###############################################
 
 navbar-links:
-  Home: "https://stevenullman.github.io"
+  Home: "index"
   About Me: "aboutme"
   Publications: "publications"
   # Resources:
