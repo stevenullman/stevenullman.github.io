@@ -7,12 +7,12 @@ subtitle:
 ### Journal Publications:
 1. B. Ampel, __S. Ullman__. (2023) "Why Following Friends Can Hurt You: A Replication Study," _AIS Transactions on Replication Research (TRR)_, 9(1):1-15.
 
-##### _Journal Papers Under Review:_
+*__Journal Papers Under Review:__*
 1. __S. Ullman__, S. Samtani, H. Zhu, B. Lazarine, and H. Chen "Enhancing Vulnerability Prioritization in Cloud Computing: Grouping Vulnerable Virtual Machines using Multi-View Representation Learning" *__Under Review (Second Round) at Journal of Management Information Systems (JMIS).__*
 
 1. __S. Ullman__, H. Zhu, S. Samtani, and H. Chen "Linking Vulnerabilities in Cyberinfrastructure With Their Remediations: A Contrastive Representation Learning Approach" *__Under Review (First Round) at Information Systems Research (ISR).__*
 
-##### _Work-In-Progress Journal Papers:_
+*__Work-In-Progress Journal Papers:__*
 1. C. Yang, __S. Ullman__, S. Samtani, H. Zhu, and H. Chen "Exploring the Propagation of Vulnerabilities in FinTech Payment Applications on GitHub: A Deep Node Ranking Approach" *__Preparing for Submission to Information Systems Research (ISR).__*
 
 1. A. Ndubizu, __S. Ullman__, S. Samtani, H. Zhu, and H. Chen "Generating Security Nutrition Labels for Internet of Things Device GitHub Repositories: A Multi-Label Classification Approach" *__Preparing for Submission to Information Systems Research (ISR).__*
@@ -35,7 +35,7 @@ subtitle:
 ### Refereed Workshop Papers (No Proceedings; * indicates I was the presenting author)
 1. __*S. Ullman__ and H. Chen “VulnSSL: Identifying Relevant Vulnerability Remediation Strategies Using Self-Supervised Learning” _International Conference on Secure Knowledge Management (SKM)._ Tempe, AZ (Virtual). September 2023.
 
-2. B. Ampel, S. Samtani, __S. Ullman__, H. Chen “Linking Common Vulnerabilities and Exposures to the MITRE ATT&CK Framework: A Self-Distillation Approach” _ACM KDD Workshop on AI-enabled Cybersecurity Analytics._ Virtual Event. August 2021. 
+2. B. Ampel, S. Samtani, __S. Ullman__, H. Chen “Linking Common Vulnerabilities and Exposures to the MITRE ATT&CK Framework: A Self-Distillation Approach” _ACM KDD Workshop on AI-enabled Cybersecurity Analytics._ Virtual Event. August 2021.
 
 <!-- My name is Inigo Montoya. I have the following qualities:
 
