@@ -15,7 +15,7 @@ subtitle:
 *__Work-In-Progress Journal Papers:__*
 1. C. Yang, __S. Ullman__, S. Samtani, H. Zhu, and H. Chen "Exploring the Propagation of Vulnerabilities in FinTech Payment Applications on GitHub: A Deep Node Ranking Approach" *__Preparing for Submission to Information Systems Research (ISR).__*
 
-1. A. Ndubizu, __S. Ullman__, S. Samtani, H. Zhu, and H. Chen "Generating Security Nutrition Labels for Internet of Things Device GitHub Repositories: A Multi-Label Classification Approach" *__Preparing for Submission to Information Systems Research (ISR).__*
+1. A. Ndubizu, __S. Ullman__, S. Samtani, H. Zhu, and H. Chen "Generating Security Nutrition Labels for Internet of Things Device GitHub Repositories: A Multi-Label Classification Approach" *__Preparing for Submission to MIS Quarterly (MISQ).__*
 
 1. B. Lazarine, S. Samtani, H. Zhu, __S. Ullman__, and H. Chen “Detecting and Grouping Vulnerable GitHub Repositories in Scientific Cyberinfrastructure: An Unsupervised Graph Embedding Approach” *__Preparing for Submission to Journal of Management Information Systems (JMIS).__*
 
@@ -23,8 +23,11 @@ subtitle:
 
 1. R. Reyes, __S. Ullman__, S. Samtani, and H. Chen "Identifying Vulnerability Persistence on Containers from Docker Hub: A Multi-View Learning Approach" *__Preparing for Submission to ACM Transactions on Management Information Systems (TMIS).__*
 
-1. __S. Ullman__, S. Samtani, H. Chen “Securing Multi-Component Workflows in Enterprise IT Infrastructure: A Graph Self-Supervised Learning Approach” *__Preparing for Submission to Information Systems Research (ISR).__*
+1. __S. Ullman__, B. Lazarine, S. Samtani, H. Chen “Securing Software Application Deployments in Cloud Computing: A Graph Contrastive Learning Approach” *__Preparing for Submission to Information Systems Research (ISR).__*
 
+1. B. Lazarine, __S. Ullman__, H. Zhu, and S. Samtani "Suggesting Alternatives for Insecure Machine Learning Repositories: A Multi-View Graph Transformer Approach" *__Preparing for submission to Information Systems Research (ISR).__*
+
+1. A. Ndubizu, __S. Ullman__, S. Samtani, and H. Chen "Identifying Vulnerability Propagation in Quantum Source Code on GitHub: A Large-Language Model Code Clone Detection Approach" *__Preparing for submission to Information Systems Research (ISR).__*
 ### Refereed Conference Proceedings (* indicates I was the presenting author)
 1. __*S. Ullman__, S. Samtani, H. Zhu, B. Lazarine, B. Ampel, M. Patton, and H. Chen “Smart Vulnerability Assessment for Scientific Cyberinfrastructure: An Unsupervised Graph Embedding Approach” _IEEE Intelligence and Security Informatics (ISI)._ Rosslyn, VA (Virtual). November 2020.
 
