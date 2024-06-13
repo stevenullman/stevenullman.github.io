@@ -5,7 +5,7 @@ subtitle:
 ---
 
 ### Journal Publications:
-1. __S. Ullman__, S. Samtani, H. Zhu, B. Lazarine, and H. Chen (2024) "Enhancing Vulnerability Prioritization in Cloud Computing: Grouping Vulnerable Virtual Machines using Multi-View Representation Learning" *__Accepted at Journal of Management Information Systems (JMIS).__*
+1. __S. Ullman__, S. Samtani, H. Zhu, B. Lazarine, and H. Chen (2024) "Enhancing Vulnerability Prioritization in Cloud Computing: Grouping Vulnerable Virtual Machines using Multi-View Representation Learning" _Accepted at Journal of Management Information Systems (JMIS)._
 
 1. B. Ampel, __S. Ullman__. (2023) "Why Following Friends Can Hurt You: A Replication Study," _AIS Transactions on Replication Research (TRR)_, 9(1):1-15.
 
